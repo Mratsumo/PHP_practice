@@ -7,7 +7,7 @@
         <meta charset="UTF-8">
     </head>
     <body>
-        <form method="post" action="m5_1.php">
+        <form method="post" action="PHP_BulletinBord.php">
             <h2>新規投稿</h2>
             名前:
             <input type="text" name = "name">
